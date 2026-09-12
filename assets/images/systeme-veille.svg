@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Système de veille BottleNeck</title>
+  <desc id="desc">Cycle en cinq étapes : cadrer, collecter, qualifier, diffuser et mettre à jour.</desc>
+  <rect width="1600" height="900" fill="#f4f1e8"/>
+  <circle cx="800" cy="450" r="260" fill="#ffffff" stroke="#18344f" stroke-width="10"/>
+  <circle cx="800" cy="450" r="120" fill="#18344f"/>
+  <text x="800" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="48" font-weight="700" fill="#ffffff">VEILLE</text>
+  <text x="800" y="485" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" fill="#ffffff">BottleNeck</text>
+  <g font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#18344f" text-anchor="middle">
+    <rect x="620" y="70" width="360" height="100" rx="30" fill="#d7f0ec" stroke="#1b776d" stroke-width="5"/><text x="800" y="133">1. Cadrer</text>
+    <rect x="1080" y="250" width="360" height="100" rx="30" fill="#e6eef7" stroke="#2563a6" stroke-width="5"/><text x="1260" y="313">2. Collecter</text>
+    <rect x="1000" y="650" width="420" height="100" rx="30" fill="#fff0df" stroke="#d9781e" stroke-width="5"/><text x="1210" y="713">3. Qualifier</text>
+    <rect x="180" y="650" width="420" height="100" rx="30" fill="#e6eef7" stroke="#2563a6" stroke-width="5"/><text x="390" y="713">4. Diffuser</text>
+    <rect x="160" y="250" width="380" height="100" rx="30" fill="#d7f0ec" stroke="#1b776d" stroke-width="5"/><text x="350" y="313">5. Mettre à jour</text>
+  </g>
+  <g fill="none" stroke="#18344f" stroke-width="10" stroke-linecap="round">
+    <path d="M990 170 C1080 180 1140 205 1190 245"/>
+    <path d="M1430 365 C1450 470 1410 565 1320 635"/>
+    <path d="M980 760 C850 825 700 825 610 760"/>
+    <path d="M280 635 C190 565 150 470 170 365"/>
+    <path d="M410 245 C500 180 590 165 610 160"/>
+  </g>
+</svg>
